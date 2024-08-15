@@ -20,10 +20,6 @@ This document provides details on how to generate and interpret Profit & Loss (P
 ### Gross Margin Percentage (GM%)
 
 - **Definition**: GM% indicates the percentage of revenue that exceeds the COGS. It reflects the profitability of the company's core activities.
-- **Formula**: 
-  \[
-  \text{GM\%} = \left( \frac{\text{Gross Profit}}{\text{Revenue}} \right) \times 100
-  \]
 - **Components**:
   - **Gross Profit**: Calculated as Revenue minus COGS.
   - **Revenue**: Total income from sales or services.
