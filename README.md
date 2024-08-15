@@ -3,6 +3,8 @@
 
 This document provides details on how to generate and interpret Profit & Loss (P&L) reports and Gross Margin Percentage (GM%) by quarter. These metrics are crucial for assessing the financial performance and profitability of a business over different periods.
 
+Drive Link: https://docs.google.com/spreadsheets/d/1CQx4qN88TJAw0JkFCEEJMPaksiew7ZAO/edit?usp=sharing&ouid=109119085779468007741&rtpof=true&sd=true
+
 ## Key Points
 
 ### Profit & Loss (P&L) Reports
